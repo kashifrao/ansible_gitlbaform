@@ -1,0 +1,4 @@
+
+    - name: Install Gitlabform
+      command: pip3 install gitlabform
+      become_user: root
